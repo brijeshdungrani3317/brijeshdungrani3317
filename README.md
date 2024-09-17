@@ -6,15 +6,6 @@ I transform complex data into actionable insights using cutting-edge technologie
 
 ---
 
-### 🔧 **Technical Skills**:
-- **ETL Pipelines & Data Modeling**: Expertise in designing efficient data pipelines and transforming massive datasets.
-- **Cloud Platforms**: Deep knowledge of **AWS** (Glue, EMR, S3, EC2) and **Azure** (Data Factory, Blob Storage).
-- **Big Data Technologies**: Skilled with **Apache Spark**, **Kafka**, **Hadoop**, **Flink**, and **NIFI** for both batch and real-time processing.
-- **Programming & Tools**: Proficient in **Python**, **SQL**, **PySpark**, **Hive**, and **Informatica**.
-- **Data Visualization**: Building powerful dashboards with **Tableau**, **Power BI**, and **Kibana**.
-
----
-
 ### ⚙️ **Core Tools & Technologies**:
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -26,6 +17,16 @@ I transform complex data into actionable insights using cutting-edge technologie
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Informatica](https://img.shields.io/badge/Informatica-FF6C37?style=for-the-badge&logo=Informatica&logoColor=white) 
+
+
+---
+
+### 🔧 **Technical Skills**:
+- **ETL Pipelines & Data Modeling**: Expertise in designing efficient data pipelines and transforming massive datasets.
+- **Cloud Platforms**: Deep knowledge of **AWS** (Glue, EMR, S3, EC2) and **Azure** (Data Factory, Blob Storage).
+- **Big Data Technologies**: Skilled with **Apache Spark**, **Kafka**, **Hadoop**, **Flink**, and **NIFI** for both batch and real-time processing.
+- **Programming & Tools**: Proficient in **Python**, **SQL**, **PySpark**, **Hive**, and **Informatica**.
+- **Data Visualization**: Building powerful dashboards with **Tableau**, **Power BI**, and **Kibana**.
 
 ---
 
