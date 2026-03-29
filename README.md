@@ -12,7 +12,7 @@
 &nbsp;
 [![Tableau](https://img.shields.io/badge/See_my_dashboards-F59E0B?style=flat-square&logo=tableau&logoColor=white&labelColor=1a1a2e)](https://public.tableau.com/app/profile/brijesh)
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-10B981?style=flat-square&logo=checkmarx&logoColor=white&labelColor=1a1a2e)](#-lets-build-something-that-matters)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-10B981?style=flat-square&logo=checkmarx&logoColor=white&labelColor=1a1a2e)](#lets-build-something-that-matters)
 
 <img src="https://komarev.com/ghpvc/?username=brijeshdungrani3317&label=Profile+Views&color=7C3AED&style=flat-square" />
 
