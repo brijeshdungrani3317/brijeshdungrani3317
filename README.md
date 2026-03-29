@@ -197,28 +197,24 @@ A dashboard is not a solution. An agent that monitors, alerts, explains, and rec
 
 ## ◈ AI Products I've Built
 
-*Each is a fully working system — not just a notebook.*
+*10 fully working systems — each solving a real business problem.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎙️ [AI Meeting Intelligence](https://github.com/brijeshdungrani3317/ai-meeting-intelligence)
-Upload any meeting recording → instant transcription, action items, decisions, sentiment & professional report.
+Upload any meeting recording → instant transcript, action items, decisions & professional report.
 
-**Stack:** `OpenAI Whisper` `GPT-4o` `LangChain` `Streamlit`
-
-`Speech-to-Text` `Structured Output` `Pydantic` `Report Generation`
+**Stack:** `Whisper` `GPT-4o` `LangChain` `Pydantic` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📉 [Churn Predictor + Retention Agent](https://github.com/brijeshdungrani3317/churn-predictor-ai)
-XGBoost scores every customer by churn risk. SHAP explains why. GPT-4o writes a personalized retention email — automatically.
+XGBoost scores churn risk. SHAP explains why. GPT-4o writes a personalized retention email — fully automated.
 
 **Stack:** `XGBoost` `SHAP` `LangChain` `GPT-4o` `Plotly`
-
-`ML Classification` `Explainable AI` `Agentic Messaging`
 
 </td>
 </tr>
@@ -226,21 +222,71 @@ XGBoost scores every customer by churn risk. SHAP explains why. GPT-4o writes a 
 <td width="50%" valign="top">
 
 ### 🕵️ [Competitive Intelligence Monitor](https://github.com/brijeshdungrani3317/competitive-intel-ai)
-Monitors competitor websites weekly. Detects content changes. GPT-4o extracts pricing signals, product updates & strategic threats into a ready-to-read briefing.
+Monitors competitor sites weekly. Detects changes. GPT-4o extracts pricing signals, product updates & threats.
 
 **Stack:** `BeautifulSoup` `GPT-4o` `LangChain` `Pydantic` `Streamlit`
-
-`Web Monitoring` `Change Detection` `Intelligence Extraction`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💰 [AI Financial Health Advisor](https://github.com/brijeshdungrani3317/ai-financial-advisor)
-Upload business financials → GPT-4o acts as your CFO. Generates health scores, 6-month forecasts, and 90-day action plans in plain English.
+Upload business financials → GPT-4o acts as CFO. Health scores, forecasts & 90-day action plans.
 
 **Stack:** `Scikit-learn` `GPT-4o` `LangChain` `Plotly` `Streamlit`
 
-`Forecasting` `Financial Analysis` `Plain-English AI Reports`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [AI Contract & Invoice Analyzer](https://github.com/brijeshdungrani3317/ai-contract-analyzer)
+Upload any PDF/DOCX contract → risk score (1–10), flagged clauses, key terms & sign/negotiate recommendation.
+
+**Stack:** `PyMuPDF` `GPT-4o` `LangChain` `Pydantic` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 📧 [AI Sales Outreach Engine](https://github.com/brijeshdungrani3317/sales-outreach-ai)
+Upload a prospect list → AI researches each company → writes hyper-personalized cold emails. 500 emails in 10 minutes.
+
+**Stack:** `BeautifulSoup` `GPT-4o` `LangChain` `Pandas` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 [AI Employee Onboarding Assistant](https://github.com/brijeshdungrani3317/ai-onboarding-assistant)
+Upload company docs → RAG chatbot answers new employee questions 24/7 from YOUR documents only.
+
+**Stack:** `ChromaDB` `LangChain` `GPT-4o` `OpenAI Embeddings` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### ⭐ [Review Intelligence & Response Bot](https://github.com/brijeshdungrani3317/review-intelligence-ai)
+Aggregate all reviews → sentiment patterns, urgent issues, reputation score → auto-draft responses.
+
+**Stack:** `GPT-4o` `LangChain` `Pydantic` `Plotly` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✍️ [Autonomous Content Marketing Pipeline](https://github.com/brijeshdungrani3317/content-marketing-ai)
+One keyword → 4 CrewAI agents → Research, write blog post, SEO optimize, create social captions. All in 90s.
+
+**Stack:** `CrewAI` `GPT-4o` `LangChain` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [Inventory Demand Forecasting AI](https://github.com/brijeshdungrani3317/inventory-forecast-ai)
+Upload sales history → ML forecasts per-SKU demand 1–8 weeks ahead → auto-flags reorder alerts.
+
+**Stack:** `Scikit-learn` `GBM` `Plotly` `Pandas` `Streamlit`
 
 </td>
 </tr>
@@ -252,11 +298,11 @@ Upload business financials → GPT-4o acts as your CFO. Generates health scores,
 
 | Project | What it does | Tech |
 |:---|:---|:---|
-| 🔍 **Startup Funding EDA** | Uncovers patterns in funding rounds, investor behavior & market timing | Python, Jupyter |
-| ⚽ **FIFA Player Intelligence** | Statistical modeling of player performance across seasons | Python, Pandas |
-| 💰 **Crypto Market Analyzer** | Real-time trend detection & volatility pattern recognition | Python, Plotly |
-| 🎯 **Customer Targeting Model** | ML segmentation model to identify high-value customer profiles | Scikit-learn |
-| 🌍 **Global Debt Analysis** | Multi-country debt trend modeling using World Bank datasets | SQL, Python |
+| 🔍 **[Startup Funding EDA](https://github.com/brijeshdungrani3317/EDA-on-Startup-Funding-Finance-Data)** | Uncovers patterns in funding rounds, investor behavior & market timing | Python, Jupyter |
+| ⚽ **[FIFA Player Intelligence](https://github.com/brijeshdungrani3317/From-Data-to-Insights-Understanding-FIFA-Players)** | Statistical modeling of player performance across seasons | Python, Pandas |
+| 💰 **[Crypto Market Analyzer](https://github.com/brijeshdungrani3317/Cryptocurrency-Market-Analysis-Project)** | Real-time trend detection & volatility pattern recognition | Python, Plotly |
+| 🎯 **[Customer Targeting Model](https://github.com/brijeshdungrani3317/Customer-Targeting-Model)** | ML segmentation model to identify high-value customer profiles | Scikit-learn |
+| 🌍 **[International Debt Analysis](https://github.com/brijeshdungrani3317/International-Debt-Analysis)** | Multi-country debt pattern analysis using World Bank datasets | SQL, Python |
 
 ---
 
